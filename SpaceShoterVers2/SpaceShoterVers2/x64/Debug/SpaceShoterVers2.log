@@ -1,0 +1,4 @@
+﻿  SpaceShoterVers2.cpp
+A:\SpaceShoter\SpaceShoterVers2\SpaceShoterVers2\SpaceShoterVers2.cpp(69,24): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+A:\SpaceShoter\SpaceShoterVers2\SpaceShoterVers2\SpaceShoterVers2.cpp(79,24): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  SpaceShoterVers2.vcxproj -> A:\SpaceShoter\SpaceShoterVers2\x64\Debug\SpaceShoterVers2.exe
